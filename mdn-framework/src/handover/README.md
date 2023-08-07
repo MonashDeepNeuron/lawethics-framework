@@ -1,1 +1,0 @@
-# Project Handover, Continuation & Completion
