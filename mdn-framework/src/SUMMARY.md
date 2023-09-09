@@ -1,9 +1,6 @@
 # Summary
-
-- [Introduction](introduction.md)
 - [Overview](overview.md)
   - [Scope and Application](overview/scope-and-application.md)
-  - [Organisational Values Statement](overview/organisational-values-statement.md)
   - [General Ethical Guidelines](overview/general-ethical-guidelines.md)
 - [Project Selection](project-selection.md)
 - [Project Design](project-design.md)
