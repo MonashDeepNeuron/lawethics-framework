@@ -3,11 +3,7 @@ title = "Monash DeepNeuron Framework"
 description = "MDN's Law and Ethics Framework for technical teams"
 
 authors = [
-    "Leah Martinez"
-    "Merryn Cagney"
-    "Jessie Wen"
-    "Ryan Matthews"
-    "Parmeeta Siddique"
+    "Leah Martinez, Merryn Cagney, Jessie Wen, Ryan Matthews, Parmeeta Siddique"
 ]
 
 language = "en"
