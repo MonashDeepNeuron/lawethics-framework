@@ -1,6 +1,15 @@
 [book]
 title = "Monash DeepNeuron Framework"
-authors = []
+description = "MDN's Law and Ethics Framework for technical teams"
+
+authors = [
+    "Leah Martinez"
+    "Merryn Cagney"
+    "Jessie Wen"
+    "Ryan Matthews"
+    "Parmeeta Siddique"
+]
+
 language = "en"
 multilingual = false
 src = "src"
